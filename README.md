@@ -26,6 +26,9 @@ A curated list of code and resources for Yew.
 
 ## Projects
 
+- [webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust, frontend is built with Yew
+- [Realworld](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly
+
 ## Templates
 
 - [yew-wasm-pack-template](https://github.com/yewstack/yew-wasm-pack-template) - A template for starting a Yew project to be used with wasm-pack
