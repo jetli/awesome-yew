@@ -38,6 +38,10 @@ A curated list of code and resources for Yew.
 ## Articles
 
 - [How to use Rust Yew](https://www.steadylearner.com/blog/read/How-to-use-Rust-Yew)
+- [How to use routers in Rust Frontend](https://www.steadylearner.com/blog/read/How-to-use-routers-in-Rust-Frontend)
+- [How to modulize your Rust Frontend](https://www.steadylearner.com/blog/read/How-to-modulize-your-Rust-Frontend)
+- [How to use NPM packages with Rust Frontend](https://www.steadylearner.com/blog/read/How-to-use-NPM-packages-with-Rust-Frontend)
+- [How to use markdown with Rust Frontend](https://www.steadylearner.com/blog/read/How-to-use-markdown-with-Rust-Frontend)
 - [Fullstack Rust with Yew](https://www.steadylearner.com/blog/read/Fullstack-Rust-with-Yew)
 - [How to render a YouTube vlog with Rust Yew fetch API](https://www.steadylearner.com/blog/read/How-to-render-a-YouTube-vlog-with-Rust-Yew-fetch-API)
 - [How to render blog posts with Rust Yew mounted API](https://www.steadylearner.com/blog/read/How-to-render-blog-posts-with-Rust-Yew-mounted-API)
