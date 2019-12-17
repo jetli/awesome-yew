@@ -21,6 +21,8 @@ A curated list of code and resources for Yew.
 - [Yew router](https://github.com/yewstack/yew_router) - A routing library for the Yew frontend framework.
 - [Yewtil](https://github.com/yewstack/yewtil) - Utilities for Yew.
 - [Live demo](https://yew-todomvc.netlify.com) - A todomvc demo.
+- [API Docs ](https://docs.rs/yew) - Docs on docs.rs
+- [Website](https://yew.rs/) - Official website
 
 ## Projects
 
