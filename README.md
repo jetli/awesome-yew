@@ -3,9 +3,10 @@
   <img src="https://github.com/yewstack/yew/blob/master/.static/yew.svg" width="150" />
 </div>
 
-# Awesome Yew
+# Awesome Yew [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of code and resources for Yew. 
+> A curated list of code and resources for Yew. 
+
 [Yew](https://github.com/yewstack/yew) is a Rust / Wasm framework for building client web apps.
 
 
