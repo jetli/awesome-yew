@@ -17,9 +17,10 @@ A curated list of code and resources for Yew.
 
 ## Official
 
-- [Yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
-- [Yew router](https://github.com/yewstack/yew_router) - A routing library for the Yew frontend framework
+- [Yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps.
+- [Yew router](https://github.com/yewstack/yew_router) - A routing library for the Yew frontend framework.
 - [Yewtil](https://github.com/yewstack/yewtil) - Utilities for Yew.
+- [Live demo](https://yew-todomvc.netlify.com) - A todomvc demo.
 
 ## Projects
 
