@@ -15,6 +15,7 @@
 - [Projects](#projects)
 - [Templates](#templates)
 - [Articles](#articles)
+- [Books](#books)
 
 ## Official
 
@@ -53,6 +54,10 @@
 - [How to render blog posts with Rust Yew mounted API](https://www.steadylearner.com/blog/read/How-to-render-blog-posts-with-Rust-Yew-mounted-API)
 - [A Web Application completely in Rust](https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471)
 - [Yew - Rust & WebAsse-frontend framework](https://sudonull.com/posts/16392-Yew-Rust-WebAsse-frontend-framework)
+
+## Books
+
+- [Programming WebAssembly with Rust](https://www.oreilly.com/library/view/programming-webassembly-with/9781680506846/)
 
 ## Contribute
 
