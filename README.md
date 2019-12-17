@@ -40,6 +40,7 @@
 
 ## Articles
 
+- [Let's Build a Rust Frontend with Yew](https://dev.to/deciduously/lets-build-a-rust-frontend-with-yew---part-1-3k2o)
 - [How to use Rust Yew](https://www.steadylearner.com/blog/read/How-to-use-Rust-Yew)
 - [How to use a modal in Rust](https://www.steadylearner.com/blog/read/How-to-use-a-modal-in-Rust)
 - [How to use routers in Rust Frontend](https://www.steadylearner.com/blog/read/How-to-use-routers-in-Rust-Frontend)
