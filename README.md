@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="logo.svg" width="150" />
+  <img src="logo.svg" width="200" />
 </div>
 
 # Awesome Yew [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
