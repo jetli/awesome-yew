@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/yewstack/yew/blob/master/.static/yew.svg" width="150" />
+  <img src="logo.svg" width="150" />
 </div>
 
 # Awesome Yew [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
