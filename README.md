@@ -12,6 +12,7 @@ A curated list of code and resources for Yew.
 ## Table of contents
 - [Official](#official)
 - [Projects](#projects)
+- [Templates](#templates)
 - [Articles](#articles)
 
 ## Official
@@ -21,5 +22,10 @@ A curated list of code and resources for Yew.
 - [Yewtil](https://github.com/yewstack/yewtil) - Utilities for Yew.
 
 ## Projects
+
+## Templates
+
+- [yew-wasm-pack-template](https://github.com/yewstack/yew-wasm-pack-template) - A template for starting a Yew project to be used with wasm-pack
+- [yew-wasm-pack-minimal](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack
 
 ## Articles
