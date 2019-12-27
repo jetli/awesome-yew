@@ -36,7 +36,7 @@
 
 ## Templates
 
-- [Create Yew App](https://github.com/jetli/create-yew-app) - Set up a modern Yew web app by running one command. 
+- [Create Yew App](https://github.com/jetli/create-yew-app) - Set up a modern Yew web app by running one command, `npx create-yew-app my-app`. 
 - [yew-wasm-pack-template](https://github.com/yewstack/yew-wasm-pack-template) - A template for starting a Yew project to be used with wasm-pack.
 - [yew-wasm-pack-minimal](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
 - [yew-parcel-template](https://github.com/spielrs/yew-parcel-template) - Awesome Yew with Yew-Router and Parcel application.
