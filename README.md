@@ -14,6 +14,7 @@
 - [Official](#official)
 - [Projects](#projects)
 - [Templates](#templates)
+- [Crates](#crates)
 - [Articles](#articles)
 - [Books](#books)
 
@@ -42,6 +43,11 @@
 - [yew-wasm-pack-minimal](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
 - [yew-parcel-template](https://github.com/spielrs/yew-parcel-template) - Awesome Yew with Yew-Router and Parcel application.
 - [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Start your Rust full stack app with few commands.
+
+## Crates
+
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript.
+- [stdweb](https://github.com/koute/stdweb) - Provides Rust bindings to the Web APIs and to allow a high degree of interoperability between Rust and JavaScript.
 
 ## Articles
 
