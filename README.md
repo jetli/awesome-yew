@@ -18,6 +18,7 @@
 - [Toolings](#toolings)
 - [Articles](#articles)
 - [Books](#books)
+- [Alternatives](#alternatives)
 
 ## Official
 
@@ -77,6 +78,15 @@
 ## Books
 
 - [Programming WebAssembly with Rust](https://www.oreilly.com/library/view/programming-webassembly-with/9781680506846/)
+
+## Alternatives
+
+Yew team love to share ideas with other projects and believe we can all help each other reach the full potential of this exciting new technology.
+
+- [Draco](https://github.com/utkarshkukreti/draco) - A Rust library for building client side web applications with Web Assembly.
+- [Percy](https://github.com/chinedufn/percy) - A modular toolkit for building isomorphic web apps with Rust + WebAssembly.
+- [Seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
+- [Smithy](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 
 ## Contribute
 
