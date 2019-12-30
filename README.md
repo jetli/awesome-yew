@@ -28,6 +28,7 @@
 - [Examples](https://github.com/yewstack/yew/tree/master/examples) - Smaller examples included in official repo.
 - [API Docs ](https://docs.rs/yew) - Docs on docs.rs.
 - [Website](https://yew.rs/) - Official website.
+- [Gitter chatroom](https://gitter.im/yewframework/Lobby) - It is pretty active and is a great place to ask questions.
 
 ## Projects
 
