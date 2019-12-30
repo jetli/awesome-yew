@@ -15,6 +15,7 @@
 - [Projects](#projects)
 - [Templates](#templates)
 - [Crates](#crates)
+- [Toolings](#toolings)
 - [Articles](#articles)
 - [Books](#books)
 
@@ -48,6 +49,11 @@
 
 - [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript.
 - [stdweb](https://github.com/koute/stdweb) - Provides Rust bindings to the Web APIs and to allow a high degree of interoperability between Rust and JavaScript.
+
+## Toolings
+
+- [wasm-pack](https://github.com/rustwasm/wasm-pack) - Your favorite rust -> wasm workflow tool.
+- [cargo-web](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web.
 
 ## Articles
 
