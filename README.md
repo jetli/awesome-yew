@@ -77,7 +77,8 @@
 
 ## Books
 
-- [Programming WebAssembly with Rust](https://www.oreilly.com/library/view/programming-webassembly-with/9781680506846/)
+- [The WebAssembly Book](https://rustwasm.github.io/docs/book/) - Working with the web and producing .wasm files.
+- [The wasm-bindgen Guide](https://rustwasm.github.io/docs/wasm-bindgen/) - How to bind Rust and JavaScript APIs in particular.
 
 ## Alternatives
 
