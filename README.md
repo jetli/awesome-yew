@@ -40,6 +40,7 @@
 - [web-view todomvc desktop app](https://github.com/Extrawurst/rust-webview-todomvc-yew) - Demo how to use yew for a todomvc that compiles to wasm and is bundled as a lightweight(~2mb) desktop app by [web-view](https://github.com/Boscop/web-view), as an alternative to Electron, [web-view](https://github.com/Boscop/web-view) also has a [demo](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
 - [yew-react-example](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
 - [yew-mdc](https://github.com/Follpvosten/yew-mdc) - Material Design Components for the Yew framework.
+- [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
 - [Kirk](https://github.com/stkevintan/Kirk) - Just A Rust Wasm Blog
 - [rust-async-wasm-demo](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn rust and async that can be deoplyed to the web.
 
