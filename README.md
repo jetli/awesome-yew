@@ -92,6 +92,7 @@ Yew team love to share ideas with other projects and believe we can all help eac
 
 - [Draco](https://github.com/utkarshkukreti/draco) - A Rust library for building client side web applications with Web Assembly.
 - [Percy](https://github.com/chinedufn/percy) - A modular toolkit for building isomorphic web apps with Rust + WebAssembly.
+- [Sauron](https://github.com/ivanceras/sauron) - Sauron is an html web framework for building web-apps.
 - [Seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
 - [Smithy](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 
