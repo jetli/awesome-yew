@@ -30,6 +30,7 @@
 - [API Docs ](https://docs.rs/yew) - Docs on docs.rs.
 - [Website](https://yew.rs/) - Official website.
 - [Gitter chatroom](https://gitter.im/yewframework/Lobby) - It is pretty active and is a great place to ask questions.
+- [Financial Contribute](https://opencollective.com/yew) - Become a financial contributor and help us sustain our community.
 
 ## Projects
 
