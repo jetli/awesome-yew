@@ -10,7 +10,7 @@
 [Yew](https://github.com/yewstack/yew) is a Rust / Wasm framework for building client web apps.
 
 
-## Table of contents
+## Contents
 - [Official](#official)
 - [Projects](#projects)
 - [Templates](#templates)
