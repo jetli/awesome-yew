@@ -42,7 +42,7 @@
 - [yew-react-example](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
 - [yew-mdc](https://github.com/Follpvosten/yew-mdc) - Material Design Components for the Yew framework.
 - [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
-- [Kirk](https://github.com/stkevintan/Kirk) - Just A Rust Wasm Blog
+- [Kirk](https://github.com/stkevintan/Kirk) - Just A Rust Wasm Blog.
 - [rust-async-wasm-demo](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn rust and async that can be deoplyed to the web.
 
 ## Templates
