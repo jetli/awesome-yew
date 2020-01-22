@@ -100,10 +100,3 @@ Yew team love to share ideas with other projects and believe we can all help eac
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, [Jet Li](https://github.com/jetli) has waived all copyright and
-related or neighboring rights to this work.
