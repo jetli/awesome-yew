@@ -49,6 +49,7 @@
 - [Kirk](https://github.com/stkevintan/Kirk) - Just A Rust Wasm Blog.
 - [rust-async-wasm-demo](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn rust and async that can be deoplyed to the web.
 - [styled-yew](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
+- [karaoke-rs](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
 
 ### Templates
 
