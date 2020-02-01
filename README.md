@@ -1,6 +1,8 @@
 <p align="center">
   <br/>
+  <br/>
   <img src="logo.svg" width="230" />
+  <br/>
   <br/>
   <br/>
 </p>
