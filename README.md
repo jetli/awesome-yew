@@ -11,7 +11,7 @@
 
 > A curated list of awesome things related to Yew. 
 
-[Yew](https://github.com/yewstack/yew) is a Rust / Wasm framework for building client web apps.
+[Yew](https://github.com/yewstack/yew) is a modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly.
 
 
 ### Contents
