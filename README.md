@@ -7,14 +7,14 @@
   <br/>
 </p>
 
-## Awesome Yew [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Yew [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome things related to Yew. 
+> A curated list of awesome things related to Yew.
 
 [Yew](https://github.com/yewstack/yew) is a modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly.
 
+## Contents
 
-### Contents
 - [Official](#official)
 - [Projects](#projects)
 - [Templates](#templates)
@@ -24,7 +24,7 @@
 - [Books](#books)
 - [Alternatives](#alternatives)
 
-### Official
+## Official
 
 - [Yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps.
 - [Yew router](https://github.com/yewstack/yew_router) - A routing library for the Yew frontend framework.
@@ -36,7 +36,7 @@
 - [Gitter chatroom](https://gitter.im/yewframework/Lobby) - It is pretty active and is a great place to ask questions.
 - [Financial Contribute](https://opencollective.com/yew) - Become a financial contributor and help us sustain our community.
 
-### Projects
+## Projects
 
 - [Realworld example](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly.
 - [webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust, frontend is built with Yew.
@@ -51,26 +51,26 @@
 - [styled-yew](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
 - [karaoke-rs](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
 
-### Templates
+## Templates
 
-- [Create Yew App](https://github.com/jetli/create-yew-app) - Set up a modern Yew web app by running one command, `npx create-yew-app my-app`. 
+- [Create Yew App](https://github.com/jetli/create-yew-app) - Set up a modern Yew web app by running one command, `npx create-yew-app my-app`.
 - [yew-wasm-pack-template](https://github.com/yewstack/yew-wasm-pack-template) - A template for starting a Yew project to be used with wasm-pack.
 - [yew-wasm-pack-minimal](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
 - [yew-parcel-template](https://github.com/spielrs/yew-parcel-template) - Awesome Yew with Yew-Router and Parcel application.
 
-### Crates
+## Crates
 
 - [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript.
 - [stdweb](https://github.com/koute/stdweb) - Provides Rust bindings to the Web APIs and to allow a high degree of interoperability between Rust and JavaScript.
 
-### Toolings
+## Toolings
 
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) - Your favorite rust -> wasm workflow tool.
 - [cargo-web](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web.
 - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
 - [binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
 
-### Articles
+## Articles
 
 - [Let's Build a Rust Frontend with Yew](https://dev.to/deciduously/lets-build-a-rust-frontend-with-yew---part-1-3k2o)
 - [How to use Rust Yew](https://www.steadylearner.com/blog/read/How-to-use-Rust-Yew)
@@ -86,14 +86,14 @@
 - [A Web Application completely in Rust](https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471)
 - [Yew - Rust & WebAsse-frontend framework](https://sudonull.com/posts/16392-Yew-Rust-WebAsse-frontend-framework)
 
-### Books
+## Books
 
 - [The WebAssembly Book](https://rustwasm.github.io/docs/book/) - Working with the web and producing .wasm files.
 - [The wasm-bindgen Guide](https://rustwasm.github.io/docs/wasm-bindgen/) - How to bind Rust and JavaScript APIs.
-- [The wasm-pack Guide](https://rustwasm.github.io/docs/wasm-pack/) - How to build and work with rust-generated WebAssembly. 
+- [The wasm-pack Guide](https://rustwasm.github.io/docs/wasm-pack/) - How to build and work with rust-generated WebAssembly.
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust) - Includes a chapter `Advanced JavaScript Integration with Yew` on creating an app with Yew.
 
-### Alternatives
+## Alternatives
 
 Yew team love to share ideas with other projects and believe we can all help each other reach the full potential of this exciting new technology.
 
@@ -103,6 +103,6 @@ Yew team love to share ideas with other projects and believe we can all help eac
 - [Seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
 - [Smithy](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 
-### Contribute
+## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
