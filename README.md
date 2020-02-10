@@ -23,7 +23,6 @@
 - [Articles](#articles)
 - [Books](#books)
 - [Alternatives](#alternatives)
-- [Contribute](#contribute)
 
 ## Official
 
@@ -103,7 +102,3 @@ Yew team love to share ideas with other projects and believe we can all help eac
 - [Sauron](https://github.com/ivanceras/sauron) - Sauron is an html web framework for building web-apps.
 - [Seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
 - [Smithy](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
