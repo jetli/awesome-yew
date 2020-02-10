@@ -23,6 +23,7 @@
 - [Articles](#articles)
 - [Books](#books)
 - [Alternatives](#alternatives)
+- [Contribute](#contribute)
 
 ## Official
 
