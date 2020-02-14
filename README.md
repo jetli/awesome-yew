@@ -23,6 +23,7 @@
 - [Articles](#articles)
 - [Books](#books)
 - [Alternatives](#alternatives)
+- [Related lists](#related-lists)
 
 ## Official
 
@@ -102,3 +103,8 @@ Yew team love to share ideas with other projects and believe we can all help eac
 - [Sauron](https://github.com/ivanceras/sauron) - Sauron is an HTML web framework for building web-apps.
 - [Seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
 - [Smithy](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
+
+## Related lists
+
+- [Awesome Rust and Webassembly](https://github.com/rustwasm/awesome-rust-and-webassembly) - A list of awesome Rust and WebAssembly projects, libraries, tools, and resources.
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
