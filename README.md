@@ -27,7 +27,7 @@
 
 ## Official
 
-- [Yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps.
+- [Yew](https://github.com/yewstack/yew) - Rust / WebAssembly framework for building client web apps.
 - [Yew router](https://github.com/yewstack/yew_router) - A routing library for the Yew frontend framework.
 - [Yewtil](https://github.com/yewstack/yewtil) - Utilities for Yew.
 - [Live demo](https://yew-todomvc.netlify.com) - A todomvc demo.
@@ -43,11 +43,11 @@
 - [webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust, frontend is built with Yew.
 - [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Easily testable and working Rust codes with blog posts to explain them.
 - [Bucket Questions](https://github.com/hgzimmerman/BucketQuestions) - A webapp written entirely in Rust for a dumb party game.
-- [web-view todomvc desktop app](https://github.com/Extrawurst/rust-webview-todomvc-yew) - Demo how to use yew for a todomvc that compiles to Wasm and is bundled as a lightweight(~2mb) desktop app by [web-view](https://github.com/Boscop/web-view), as an alternative to Electron, [web-view](https://github.com/Boscop/web-view) also has a [demo](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
+- [web-view todomvc desktop app](https://github.com/Extrawurst/rust-webview-todomvc-yew) - Demo how to use yew for a todomvc that compiles to WebAssembly and is bundled as a lightweight(~2mb) desktop app by [web-view](https://github.com/Boscop/web-view), as an alternative to Electron, [web-view](https://github.com/Boscop/web-view) also has a [demo](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
 - [yew-react-example](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
 - [yew-mdc](https://github.com/Follpvosten/yew-mdc) - Material Design Components for the Yew framework.
 - [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
-- [Kirk](https://github.com/stkevintan/Kirk) - Just A Rust Wasm Blog.
+- [Kirk](https://github.com/stkevintan/Kirk) - Just A Rust WebAssembly Blog.
 - [rust-async-wasm-demo](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn Rust and async that can be deoplyed to the web.
 - [styled-yew](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
 - [karaoke-rs](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
@@ -61,12 +61,12 @@
 
 ## Crates
 
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript.
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between WebAssembly modules and JavaScript.
 - [stdweb](https://github.com/koute/stdweb) - Provides Rust bindings to the Web APIs and to allow a high degree of interoperability between Rust and JavaScript.
 
 ## Toolings
 
-- [wasm-pack](https://github.com/rustwasm/wasm-pack) - Your favorite Rust -> Wasm workflow tool.
+- [wasm-pack](https://github.com/rustwasm/wasm-pack) - Your favorite Rust -> WebAssembly workflow tool.
 - [cargo-web](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web.
 - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
 - [binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
