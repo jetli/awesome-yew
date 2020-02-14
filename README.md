@@ -47,7 +47,7 @@
 - [yew-mdc](https://github.com/Follpvosten/yew-mdc) - Material Design Components for the Yew framework.
 - [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
 - [Kirk](https://github.com/stkevintan/Kirk) - Just A Rust Wasm Blog.
-- [rust-async-wasm-demo](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn rust and async that can be deoplyed to the web.
+- [rust-async-wasm-demo](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn Rust and async that can be deoplyed to the web.
 - [styled-yew](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
 - [karaoke-rs](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
 
@@ -65,7 +65,7 @@
 
 ## Toolings
 
-- [wasm-pack](https://github.com/rustwasm/wasm-pack) - Your favorite rust -> wasm workflow tool.
+- [wasm-pack](https://github.com/rustwasm/wasm-pack) - Your favorite Rust -> wasm workflow tool.
 - [cargo-web](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web.
 - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
 - [binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
