@@ -1,17 +1,12 @@
-<p align="center">
-  <br/>
-  <br/>
-  <img src="logo.svg" width="230" />
-  <br/>
-  <br/>
-  <br/>
-</p>
-
 # Awesome Yew [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[<img src="logo.svg" align="right" width="100" title="Awesome Yew">](https://github.com/yewstack/yew)
 
 > A curated list of awesome things related to Yew.
 
 [Yew](https://github.com/yewstack/yew) is a modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly.
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## Contents
 
