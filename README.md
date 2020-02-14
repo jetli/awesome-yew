@@ -102,4 +102,5 @@ Yew team love to share ideas with other projects and believe we can all help eac
 ## Related lists
 
 - [Awesome Rust and WebAssembly](https://github.com/rustwasm/awesome-rust-and-webassembly) - A list of awesome Rust and WebAssembly projects, libraries, tools, and resources.
+- [Awesome WebAssembly](https://github.com/mbasso/awesome-wasm) - Collection of awesome things regarding WebAssembly ecosystem.
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
