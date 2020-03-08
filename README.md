@@ -47,6 +47,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [styled-yew](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
 - [karaoke-rs](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
 - [I Love Hue! (rs)](https://github.com/noc7c9/i-love-hue-rs) - A clone of the mobile game I Love Hue in Yew (Rust).
+- [Yew Form](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew.
 
 ## Templates
 
