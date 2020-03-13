@@ -66,6 +66,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## Toolings
 
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) - Your favorite Rust -> WebAssembly workflow tool.
+- [wasm-pack-action](https://github.com/jetli/wasm-pack-action) - Github action to install `wasm-pack` by downloading the executable to speed up CI/CD.
 - [cargo-web](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web.
 - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
 - [binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
