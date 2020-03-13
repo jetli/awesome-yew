@@ -50,6 +50,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Yew Form](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew.
 - [yew-styles-page](https://github.com/spielrs/yew-styles-page) - This is an initial project of a framework style for yew.
 - [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust feature search.
+- [Rust electron yew demo](https://github.com/Extrawurst/rust-electron-demo) - An example of building a Rust based web app (Yew) into a native app using electron.
 
 ## Templates
 
