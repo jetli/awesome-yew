@@ -52,6 +52,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust feature search.
 - [Rust electron yew demo](https://github.com/Extrawurst/rust-electron-demo) - An example of building a Rust based web app (Yew) into a native app using electron.
 - [covplot](https://github.com/jbowens/covplot) - Live graphs of worldwide CoVID-19 data.
+- [Tanoshi](https://github.com/fadhlika/tanoshi-web) - Tachiyomi-like web manga reader. Front-end for tanoshi.
 
 ## Templates
 
