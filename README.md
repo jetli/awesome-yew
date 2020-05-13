@@ -55,6 +55,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [covplot](https://github.com/jbowens/covplot) - Live graphs of worldwide CoVID-19 data.
 - [Tanoshi](https://github.com/fadhlika/tanoshi-web) - Tachiyomi-like web manga reader. Front-end for tanoshi.
 - [Minesweeper](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
+- [Freecell](https://github.com/Stigjb/freecell) - A patience game written in Rust and Yew.
 
 ## Templates
 
