@@ -56,6 +56,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Tanoshi](https://github.com/fadhlika/tanoshi-web) - Tachiyomi-like web manga reader. Front-end for tanoshi.
 - [Minesweeper](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
 - [Freecell](https://github.com/Stigjb/freecell) - A patience game written in Rust and Yew.
+- [Daydream](https://github.com/MTRNord/Daydream) - A small Matrix web client written in Rust.
 
 ## Templates
 
