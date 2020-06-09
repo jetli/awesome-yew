@@ -59,6 +59,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Daydream](https://github.com/MTRNord/Daydream) - A small Matrix web client written in Rust.
 - [Yew-WebRTC-Chat](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
 - [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
+- [Chord Quiz](https://github.com/Stigjb/chord-quiz) - Practice recognizing chords in this Rust/Yew/WebAssembly app.
 
 ## Templates
 
