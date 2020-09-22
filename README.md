@@ -64,6 +64,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [yew-bulma](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
 - [DevAndDev](https://github.com/alepez/devand) - A website where developers can find pair-programming partners. Written in Rust, Yew frontend.
 - [yew-octicons](https://github.com/io12/yew-octicons) - An easy interface for using Octicons in Yew projects.
+- [Pipe](https://github.com/pipe-fun/pipe) - This is a Rust / Wasm client web app which is a task control center.
 
 ## Templates
 
