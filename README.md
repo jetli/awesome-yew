@@ -23,8 +23,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## Official
 
 - [Yew](https://github.com/yewstack/yew) - Rust / WebAssembly framework for building client web apps.
-- [Yew router](https://github.com/yewstack/yew_router) - A routing library for the Yew frontend framework.
-- [Yewtil](https://github.com/yewstack/yewtil) - Utilities for Yew.
 - [Live demo](https://yew-todomvc.netlify.com) - A todomvc demo.
 - [Examples](https://github.com/yewstack/yew/tree/master/examples) - Smaller examples included in official repo.
 - [API Docs](https://docs.rs/yew) - Docs on docs.rs.
