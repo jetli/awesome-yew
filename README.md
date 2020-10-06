@@ -66,6 +66,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [yew-state](https://github.com/intendednull/yew-state) - Ergonomic shared state for Yew components with optionally persistent local and session storage.
 - [yew-material-components](https://github.com/hamza1311/yew-material-components) - Yew material components.
 - [Yewprint](https://github.com/cecton/yewprint) - Port of blueprintjs.com to Yew.
+- [ybc](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
 
 ## Templates
 
