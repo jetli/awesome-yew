@@ -103,7 +103,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [How to render a YouTube vlog with Rust Yew fetch API](https://www.steadylearner.com/blog/read/How-to-render-a-YouTube-vlog-with-Rust-Yew-fetch-API)
 - [How to render blog posts with Rust Yew mounted API](https://www.steadylearner.com/blog/read/How-to-render-blog-posts-with-Rust-Yew-mounted-API)
 - [A Web Application completely in Rust](https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471)
-- [Yew - Rust & WebAsse-frontend framework](https://sudonull.com/posts/16392-Yew-Rust-WebAsse-frontend-framework)
+- [Yew - Rust & WebAsse-frontend framework](https://sudonull.com/post/11627-Yew-Rust-WebAsse-frontend-framework)
 
 ## Books
 
