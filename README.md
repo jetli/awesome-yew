@@ -67,6 +67,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [yew-material-components](https://github.com/hamza1311/yew-material-components) - Yew material components.
 - [Yewprint](https://github.com/cecton/yewprint) - Port of blueprintjs.com to Yew.
 - [ybc](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
+- [note-to-yew](https://github.com/GalAster/note-to-yew) - Convert your markups into Yew macro online, which is also made by Yew.
 
 ## Templates
 
