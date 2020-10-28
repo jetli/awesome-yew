@@ -69,7 +69,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [ybc](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
 - [note-to-yew](https://github.com/GalAster/note-to-yew) - Convert your markups into Yew macro online, which is also made by Yew.
 - [ASCII-Hangman](https://github.com/getreu/ascii-hangman) - Configurable Hangman game for children with ASCII-art rewarding.
-- [dotdotyew](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) using yew, with Rust powering the backend API.
+- [dotdotyew](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) using Yew, with Rust powering the backend API.
 
 ## Templates
 
