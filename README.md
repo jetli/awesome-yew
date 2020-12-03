@@ -71,6 +71,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [ASCII-Hangman](https://github.com/getreu/ascii-hangman) - Configurable Hangman game for children with ASCII-art rewarding.
 - [dotdotyew](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) using Yew, with Rust powering the backend API.
 - [patternfly-yew](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
+- [reacty_yew](https://github.com/hobofan/reacty_yew) - Generate Yew components from React components via Typescript type definitions.
 
 ## Templates
 
