@@ -14,7 +14,11 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Projects](#projects)
 - [Templates](#templates)
 - [Crates](#crates)
-- [Toolings](#toolings)
+  - [Component Libraries](#component-libraries)
+  - [Forms](#forms)
+  - [Utils](#utils)
+  - [Wasm](#wasm)
+- [Tooling](#tooling)
 - [Articles](#articles)
 - [Books](#books)
 - [Alternatives](#alternatives)
@@ -39,14 +43,10 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Bucket Questions](https://github.com/hgzimmerman/BucketQuestions) - A webapp written entirely in Rust for a dumb party game.
 - [web-view todomvc desktop app](https://github.com/Extrawurst/rust-webview-todomvc-yew) - Demo how to use yew for a todomvc that compiles to WebAssembly and is bundled as a lightweight(~2mb) desktop app by [web-view](https://github.com/Boscop/web-view), as an alternative to Electron, [web-view](https://github.com/Boscop/web-view) also has a [demo](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
 - [yew-react-example](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
-- [yew-mdc](https://github.com/Follpvosten/yew-mdc) - Material Design Components for the Yew framework.
-- [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
 - [Kirk](https://github.com/stkevintan/Kirk) - Just A Rust WebAssembly Blog.
-- [rust-async-wasm-demo](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn Rust and async that can be deoplyed to the web.
-- [styled-yew](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
+- [rust-async-wasm-demo](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn Rust and async that can be deployed to the web.
 - [karaoke-rs](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
 - [I Love Hue! (rs)](https://github.com/noc7c9/i-love-hue-rs) - A clone of the mobile game I Love Hue in Yew (Rust).
-- [Yew Form](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew.
 - [yew-styles-page](https://github.com/spielrs/yew-styles-page) - This is an initial project of a framework style for yew.
 - [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust feature search.
 - [Rust electron yew demo](https://github.com/Extrawurst/rust-electron-demo) - An example of building a Rust based web app (Yew) into a native app using electron.
@@ -59,19 +59,12 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
 - [Chord Quiz](https://github.com/Stigjb/chord-quiz) - Practice recognizing chords in this Rust/Yew/WebAssembly app.
 - [RustMart](https://github.com/sheshbabu/rustmart-yew-example) - Single Page Application (SPA) written using Rust, Wasm and Yew.
-- [yew-bulma](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
 - [DevAndDev](https://github.com/alepez/devand) - A website where developers can find pair-programming partners. Written in Rust, Yew frontend.
 - [yew-octicons](https://github.com/io12/yew-octicons) - An easy interface for using Octicons in Yew projects.
 - [Pipe](https://github.com/pipe-fun/pipe) - This is a Rust / Wasm client web app which is a task control center.
-- [yew-state](https://github.com/intendednull/yew-state) - Ergonomic shared state for Yew components with optionally persistent local and session storage.
-- [yew-material-components](https://github.com/hamza1311/yew-material-components) - Yew material components.
-- [Yewprint](https://github.com/cecton/yewprint) - Port of blueprintjs.com to Yew.
-- [ybc](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
 - [note-to-yew](https://github.com/GalAster/note-to-yew) - Convert your markups into Yew macro online, which is also made by Yew.
 - [ASCII-Hangman](https://github.com/getreu/ascii-hangman) - Configurable Hangman game for children with ASCII-art rewarding.
 - [dotdotyew](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) using Yew, with Rust powering the backend API.
-- [patternfly-yew](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
-- [reacty_yew](https://github.com/hobofan/reacty_yew) - Generate Yew components from React components via Typescript type definitions.
 
 ## Templates
 
@@ -82,10 +75,32 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Crates
 
+### Component Libraries
+
+- [yew-mdc](https://github.com/Follpvosten/yew-mdc) - Material Design Components for the Yew framework.
+- [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
+- [yew-bulma](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
+- [yew-material-components](https://github.com/hamza1311/yew-material-components) - Yew material components.
+- [Yewprint](https://github.com/cecton/yewprint) - Port of blueprintjs.com to Yew.
+- [ybc](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
+- [patternfly-yew](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
+
+### Forms
+
+- [Yew Form](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew.
+
+### Utils
+
+- [yew-state](https://github.com/intendednull/yew-state) - Ergonomic shared state for Yew components with optionally persistent local and session storage.
+- [reacty_yew](https://github.com/hobofan/reacty_yew) - Generate Yew components from React components via Typescript type definitions.
+- [styled-yew](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
+
+### Wasm
+
 - [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between WebAssembly modules and JavaScript.
 - [stdweb](https://github.com/koute/stdweb) - Provides Rust bindings to the Web APIs and to allow a high degree of interoperability between Rust and JavaScript.
 
-## Toolings
+## Tooling
 
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) - Your favorite Rust -> WebAssembly workflow tool.
 - [wasm-pack-action](https://github.com/jetli/wasm-pack-action) - Github action to install `wasm-pack` by downloading the executable to speed up CI/CD.
