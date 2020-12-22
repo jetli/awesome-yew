@@ -15,7 +15,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Templates](#templates)
 - [Crates](#crates)
   - [Component Libraries](#component-libraries)
-  - [Forms](#forms)
+  - [Components](#components)
   - [Utils](#utils)
   - [Wasm](#wasm)
 - [Tooling](#tooling)
@@ -86,9 +86,11 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [ybc](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
 - [patternfly-yew](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
 
-### Forms
+### Components
 
 - [Yew Form](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew.
+- [yew-component-size](https://github.com/AircastDev/yew-component-size) - A component that emits events when the parent component changes width/height.
+- [yew-virtual-scroller](https://github.com/AircastDev/yew-virtual-scroller) - A component for virtual scrolling / scroll windowing
 
 ### Utils
 
