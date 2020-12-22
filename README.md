@@ -89,8 +89,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ### Components
 
 - [Yew Form](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew.
-- [yew-component-size](https://github.com/AircastDev/yew-component-size) - A component that emits events when the parent component changes width/height.
-- [yew-virtual-scroller](https://github.com/AircastDev/yew-virtual-scroller) - A component for virtual scrolling / scroll windowing
+- [yew-component-size](https://github.com/AircastDev/yew-component-size) - A Yew component that emits events when the parent component changes width/height.
+- [yew-virtual-scroller](https://github.com/AircastDev/yew-virtual-scroller) - A Yew component for virtual scrolling / scroll windowing.
 
 ### Utils
 
