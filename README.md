@@ -32,6 +32,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [API Docs](https://docs.rs/yew) - Docs on docs.rs.
 - [Website](https://yew.rs/) - Official website.
 - [Chatroom](https://discord.gg/VQck8X4) - It is pretty active and is a great place to ask questions.
+- [Reddit](https://www.reddit.com/r/yew_web/) - Dedicated Sub Reddit
 - [Financial Contribute](https://opencollective.com/yew) - Become a financial contributor and help us sustain our community.
 - [Yewtify](https://github.com/yewstack/yewtify) - Vuetify components for Yew Framework.
 
