@@ -88,6 +88,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Yewprint](https://github.com/cecton/yewprint) - Port of blueprintjs.com to Yew.
 - [ybc](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
 - [patternfly-yew](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
+- [yew-feather](https://github.com/pedrodesu/yew-feather) - Feather Icons components for Yew.
 
 ### Components
 
