@@ -72,6 +72,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) - A Rust WebAssembly [Webapp](http://118.190.37.169:8002) example basing Yew newest hooks and functional API, the code style is extremely like React Function Component.
 - [yew-d3-example](https://github.com/i-schuetz/yew-d3-example) - Showing a d3 chart with Yew.
 - [Oxfeed](https://github.com/sanpii/oxfeed) - A feed reader written in Rust with a Yew frontend.
+- [Flow.er](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
 
 ## Templates
 
