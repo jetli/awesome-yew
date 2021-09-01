@@ -87,6 +87,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Component Libraries
 
+- [yew-chart](https://github.com/titanclass/yew-chart) - A Yew-based charting library that provides SVG based components for rendering charts.
 - [yew-mdc](https://github.com/Follpvosten/yew-mdc) - Material Design Components for the Yew framework.
 - [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
 - [yew-bulma](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
@@ -128,6 +129,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 
+- [A code walkthrough video of Yew with a real-world app with Christopher Hunt and Kiki Carter](https://www.youtube.com/watch?v=ilrGIJGdqRo)
 - [Let's Build a Rust Frontend with Yew](https://dev.to/deciduously/lets-build-a-rust-frontend-with-yew---part-1-3k2o)
 - [How to use Rust Yew](https://www.steadylearner.com/blog/read/How-to-use-Rust-Yew)
 - [How to use a modal in Rust](https://www.steadylearner.com/blog/read/How-to-use-a-modal-in-Rust)
