@@ -75,6 +75,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Flow.er](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
 - [Fullstack-Rust](https://github.com/vascokk/fullstack-rust) - A Full Stack Rust application (Connect5 game) with Actix-web, Yew, Bulma CSS and Diesel.
 - [Sea_battle](https://github.com/MAE664128/sea_battle) - A simple example of a sea battle game. Rust + Yew.
+- [tide-async-graphql-mongodb](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
+- [surfer](https://github.com/zzy/surfer) - A blog built on yew + graphql, with [live demo site](https://gaiding.com). Backend for graphql services, and frontend for web application.
 
 ## Templates
 
