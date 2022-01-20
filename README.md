@@ -119,6 +119,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [reacty_yew](https://github.com/hobofan/reacty_yew) - Generate Yew components from React components via Typescript type definitions.
 - [styled-yew](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
 - [stylist-rs](https://github.com/futursolo/stylist-rs) - A CSS-in-Rust styling solution for WebAssembly Applications.
+- [yew-side-effect](https://github.com/futursolo/yew-side-effect) - Reconcile Side Effects in Yew Applications. This library is inspired by react-side-effect and react-helmet.
 
 ### Wasm
 
