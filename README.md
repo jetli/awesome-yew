@@ -82,7 +82,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Paudle](https://github.com/pmsanford/paudle) - A reimplementation of the excellent word game Wordle by Josh Wardle.
 - [Rust algorithms](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms (only sorting algorithms for now).
 - [Marc Portfolio](https://gitlab.com/marcempunkt/maeurerdev) - A software developer portfolio, [Live Demo](https://maeurer.dev/).
-- [zzhack](https://github.com/youncccat/zzhack) - A personal blog, based on Rust & Yew.
+- [zzhack](https://github.com/youncccat/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/technology).
 
 ## Templates
 
