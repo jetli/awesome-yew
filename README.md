@@ -83,6 +83,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Rust algorithms](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms (only sorting algorithms for now).
 - [Marc Portfolio](https://gitlab.com/marcempunkt/maeurerdev) - A software developer portfolio, [Live Demo](https://maeurer.dev/).
 - [zzhack](https://github.com/youncccat/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/technology).
+- [yew-ssr-tide](https://github.com/zzy/yew-ssr-tide) - The example demonstrates yew server-side rendering with tide & surf, it need the **development version** of yew.
+- [yew-ssr-actix-web](https://github.com/zzy/yew-ssr-actix-web) - The example demonstrates yew server-side rendering with actix-web & reqwest, it need the **development version** of yew.
 
 ## Templates
 
