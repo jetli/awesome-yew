@@ -123,6 +123,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [yew-hooks](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use](https://github.com/streamich/react-use) and [alibaba/hooks](https://github.com/alibaba/hooks).
 - [yew-side-effect](https://github.com/futursolo/yew-side-effect) - Reconcile Side Effects in Yew Applications, inspired by [react-side-effect](https://github.com/gaearon/react-side-effect) and [react-helmet](https://github.com/nfl/react-helmet).
 - [Bounce](https://github.com/futursolo/bounce) - The uncomplicated state management library for Yew, inspired by [Redux](https://github.com/reduxjs/redux) and [Recoil](https://github.com/facebookexperimental/Recoil).
+- [yewv](https://github.com/yewv/yewv) - A lightning fast state management module for Yew built with performance and simplicity as a first priority.
 
 ### Utils
 
