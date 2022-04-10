@@ -134,6 +134,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Yew Interop](https://github.com/Madoshakalaka/yew-interop) - Load JavaScript and CSS asynchronously in Yew.
 - [Tailwind RS](https://github.com/oovm/tailwind-rs) - Tailwind style tracer in rust, JIT + AOT interpreter.
 - [yew-style-in-rs](https://github.com/MatchaChoco010/yew-style-in-rs) - Scoped CSS in Rust for Yew.
+- [yew_icons](https://github.com/finnbear/yew_icons) - Easily include a variety of svg icons(Feather/Font Awesome/Octicons) into your Yew app.
 
 ### Wasm
 
