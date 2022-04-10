@@ -95,6 +95,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [yew-wasm-pack-minimal](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
 - [yew-parcel-template](https://github.com/spielrs/yew-parcel-template) - Awesome Yew with Yew-Router and Parcel application.
 - [yew-template-for-github-io](https://github.com/Ja-sonYun/yew-template-for-github-io) - Directly deployable Template of yew project for github.io, using tailwind and webpack for css, trunk for build and serve.
+- [tailwindcss-yew-template](https://github.com/vvcaw/tailwindcss-yew-template) - Simple layout for using Tailwindcss with Yew.
 
 ## Crates
 
