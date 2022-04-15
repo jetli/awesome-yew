@@ -115,6 +115,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [tailwind-yew-builder](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
 - [yew-components](https://github.com/angular-rust/yew-components) - Material Design Components for the Yew framework.
 - [yew-chart](https://github.com/titanclass/yew-chart) - A Yew-based charting library that provides SVG based components for rendering charts.
+- [tailyew](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 
 ### Components
 
