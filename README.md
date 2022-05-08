@@ -88,6 +88,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [yew-ssr-actix-web](https://github.com/zzy/yew-ssr-actix-web) - The example demonstrates Yew server-side rendering with actix-web & reqwest, it needs the **development version** of Yew.
 - [PixelGuesser](https://github.com/tdooms/pixelguesser) - PixelGuesser is a real life party gam where players try to guess the contents of an image as quickly as possible. 
 - [Crabtyper](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
+- [We-Come Monorepo](https://github.com/kabinetkmitb/wecome) - This is a monorepo for wecome KM ITB, [Live Demo](https://wecome-itb.com/).
 
 ## Templates
 
