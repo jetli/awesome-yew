@@ -89,6 +89,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [PixelGuesser](https://github.com/tdooms/pixelguesser) - PixelGuesser is a real life party gam where players try to guess the contents of an image as quickly as possible. 
 - [Crabtyper](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
 - [We-Come Monorepo](https://github.com/kabinetkmitb/wecome) - This is a monorepo for wecome KM ITB, [Live Demo](https://wecome-itb.com/).
+- [blog-rs](https://github.com/songday/blog-rs) - A blog system in which frontend and backend are ALL written in Rust. Backend powered by Warp and frontend built on Yew (WASM).
 
 ## Templates
 
