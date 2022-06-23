@@ -90,7 +90,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Crabtyper](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
 - [We-Come Monorepo](https://github.com/kabinetkmitb/wecome) - This is a monorepo for wecome KM ITB, [Live Demo](https://wecome-itb.com/).
 - [blog-rs](https://github.com/songday/blog-rs) - A blog system in which frontend and backend are ALL written in Rust. Backend powered by Warp and frontend built on Yew (WASM).
-[mb2](https://devctm.com) - A poker server with a Yew client. Click the `Demo` button and then `Start` to see the client.
+- [mb2](https://devctm.com) - A poker server with a Yew client. Click the `Demo` button and then `Start` to see the client.
+- [Puzzle Cube](https://github.com/wainwrightmark/puzzle_cube) - Rubix Cube solver using Rust and Yew, [Live Demo](https://wainwrightmark.github.io/puzzle_cube/).
 
 ## Templates
 
