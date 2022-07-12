@@ -35,7 +35,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Chatroom](https://discord.gg/VQck8X4) - It is pretty active and is a great place to ask questions.
 - [Reddit](https://www.reddit.com/r/yew_web/) - Dedicated Sub Reddit.
 - [Financial Contribute](https://opencollective.com/yew) - Become a financial contributor and help us sustain our community.
-- [Yewtify](https://github.com/yewstack/yewtify) - Vuetify components for Yew Framework.
 
 ## Projects
 
@@ -93,6 +92,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [mb2](https://devctm.com) - A poker server with a Yew client. Click the `Demo` button and then `Start` to see the client.
 - [Puzzle Cube](https://github.com/wainwrightmark/puzzle_cube) - Rubix Cube solver using Rust and Yew, [Live Demo](https://wainwrightmark.github.io/puzzle_cube/).
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility built with Rust, Yew, Bulma and Tauri.
+- [Rust Audio](https://github.com/austintheriot/audio) - Realtime audio processing / synthesis using Rust/WASM in the browser, [Live Demo](https://austintheriot.github.io/audio/).
 
 ## Templates
 
