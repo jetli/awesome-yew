@@ -116,7 +116,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
 - [yew-bulma](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
 - [material-yew](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
-- [Yewprint](https://github.com/cecton/yewprint) - Port of blueprintjs.com to Yew.
+- [Yewprint](https://github.com/yewprint/yewprint) - Port of blueprintjs.com to Yew.
 - [ybc](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
 - [patternfly-yew](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
 - [yew-feather](https://github.com/pedrodesu/yew-feather) - Feather Icons components for Yew.
