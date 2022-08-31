@@ -94,6 +94,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Puzzle Cube](https://github.com/wainwrightmark/puzzle_cube) - Rubix Cube solver using Rust and Yew, [Live Demo](https://wainwrightmark.github.io/puzzle_cube/).
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility built with Rust, Yew, Bulma and Tauri.
 - [Rust Audio](https://github.com/austintheriot/audio) - Realtime audio processing / synthesis using Rust/WASM in the browser, [Live Demo](https://austintheriot.github.io/audio/).
+- [Kiomet](https://kiomet.com) - An online real-time strategy game in which you expand your territory by capturing towers.
 
 ## Templates
 
