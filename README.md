@@ -139,6 +139,11 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Bounce](https://github.com/bounce-rs/bounce) - The uncomplicated state management library for Yew, inspired by [Redux](https://github.com/reduxjs/redux) and [Recoil](https://github.com/facebookexperimental/Recoil).
 - [yewv](https://github.com/yewv/yewv) - A lightning fast state management module for Yew built with performance and simplicity as a first priority.
 
+### Javascript Library Ports
+
+- [Plotly.rs](https://github.com/igiagkiozis/plotly) - Rust bindings for the popular [Plotly](https://plotly.com/javascript/) charting library.
+- [ag-grid-rs](https://github.com/mfreeborn/ag-grid-rs) - Rust bindings for the [AG Grid](https://www.ag-grid.com/javascript-data-grid/) datatable library.
+
 ### Utils
 
 - [Yewdux](https://github.com/intendednull/yewdux) - Redux-like state containers for Yew apps.
