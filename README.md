@@ -93,6 +93,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility built with Rust, Yew, Bulma and Tauri.
 - [Rust Audio](https://github.com/austintheriot/audio) - Realtime audio processing / synthesis using Rust/WASM in the browser, [Live Demo](https://austintheriot.github.io/audio/).
 - [Kiomet](https://kiomet.com) - An online real-time strategy game in which you expand your territory by capturing towers.
+- [Portfolio website](https://github.com/simbleau/website) - A portfolio SPA with accessibility built-in by Spencer Imbleau.
 
 ## Templates
 
