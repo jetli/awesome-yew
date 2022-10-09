@@ -190,6 +190,10 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Create a desktop app in Rust using Tauri and Yew](https://dev.to/stevepryde/create-a-desktop-app-in-rust-using-tauri-and-yew-2bhe)
 - [A code walkthrough video of Yew with a real-world app with Christopher Hunt and Kiki Carter](https://www.youtube.com/watch?v=ilrGIJGdqRo)
 
+## Courses
+
+- [full-stack-todo-rust-course](https://github.com/brooks-builds/full-stack-todo-rust-course) - Full stack rust course including course for Yew.
+
 ## Books
 
 - [The WebAssembly Book](https://rustwasm.github.io/docs/book/) - Working with the web and producing .wasm files.
