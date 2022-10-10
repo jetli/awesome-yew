@@ -94,6 +94,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Rust Audio](https://github.com/austintheriot/audio) - Realtime audio processing / synthesis using Rust/WASM in the browser, [Live Demo](https://austintheriot.github.io/audio/).
 - [Kiomet](https://kiomet.com) - An online real-time strategy game in which you expand your territory by capturing towers.
 - [Portfolio website](https://github.com/simbleau/website) - A portfolio SPA with accessibility built-in by Spencer Imbleau.
+- [tchatche.rs](https://github.com/nag763/tchatchers) - A websocket chat based application built in yew and axum.
 
 ## Templates
 
