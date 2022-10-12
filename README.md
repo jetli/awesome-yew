@@ -62,14 +62,14 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [DevAndDev](https://github.com/alepez/devand) - A website where developers can find pair-programming partners. Written in Rust, Yew frontend.
 - [yew-octicons](https://github.com/io12/yew-octicons) - An easy interface for using Octicons in Yew projects.
 - [Pipe](https://github.com/pipe-fun/pipe) - This is a Rust / Wasm client web app which is a task control center.
-- [note-to-yew](https://github.com/GalAster/note-to-yew) - Convert your markups into Yew macro online, which is also made by Yew.
+- [note-to-yew](https://github.com/oovm/note-to-yew) - Convert your markups into Yew macro online, which is also made by Yew.
 - [ASCII-Hangman](https://github.com/getreu/ascii-hangman) - Configurable Hangman game for children with ASCII-art rewarding.
 - [dotdotyew](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) using Yew, with Rust powering the backend API.
 - [wasm-2048](https://github.com/dev-family/wasm-2048) - 2048 game implemented with Rust and Yew and compiled to Wasm.
 - [website-wasm](https://github.com/kamiyaa/website-wasm) - My personal website written in Rust via Yew/Wasm.
 - [KeyPress](https://github.com/rayylee/keypress) - A Rust WebAssembly Website example for practising english for chinese.
 - [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) - A Rust WebAssembly [Webapp](http://118.190.37.169:8002) example basing Yew newest hooks and functional API, the code style is extremely like React Function Component.
-- [yew-d3-example](https://github.com/i-schuetz/yew-d3-example) - Showing a d3 chart with Yew.
+- [yew-d3-example](https://github.com/ivanschuetz/yew-d3-example) - Showing a d3 chart with Yew.
 - [Oxfeed](https://github.com/sanpii/oxfeed) - A feed reader written in Rust with a Yew frontend.
 - [Flow.er](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
 - [Fullstack-Rust](https://github.com/vascokk/fullstack-rust) - A Full Stack Rust application (Connect5 game) with Actix-web, Yew, Bulma CSS and Diesel.
@@ -80,7 +80,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Paudle](https://github.com/pmsanford/paudle) - A reimplementation of the excellent word game Wordle by Josh Wardle.
 - [Rust algorithms](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms (only sorting algorithms for now).
 - [Marc Portfolio](https://gitlab.com/marcempunkt/maeurerdev) - A software developer portfolio, [Live Demo](https://maeurer.dev/).
-- [zzhack](https://github.com/youncccat/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/).
+- [zzhack](https://github.com/zzhack-stack/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/).
 - [Rquote](https://github.com/Altair-Bueno/rquote) - Rquote is a web application built using Rust and WebAssembly. It fetches Anime quotes from the Animechan API. [Live Demo](https://rquote.vercel.app/).
 - [yew-ssr-tide](https://github.com/zzy/yew-ssr-tide) - The example demonstrates Yew server-side rendering with tide & surf, it needs the **development version** of Yew.
 - [yew-ssr-actix-web](https://github.com/zzy/yew-ssr-actix-web) - The example demonstrates Yew server-side rendering with actix-web & reqwest, it needs the **development version** of Yew.
