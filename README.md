@@ -96,6 +96,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Portfolio website](https://github.com/simbleau/website) - A portfolio SPA with accessibility built-in by Spencer Imbleau.
 - [tchatche.rs](https://github.com/nag763/tchatchers) - A Websocket chat based application built in Yew and Axum.
 - [viz.rs](https://github.com/viz-rs/viz-rs.github.io) - A website for viz web framework, [Live Demo](https://viz.rs/).
+- [theiskaa.com](https://github.com/theiskaa/theiskaa.com) - A real world implementation of Yew framework. [Live at theiskaa.com](https://theiskaa.com)
 
 ## Templates
 
