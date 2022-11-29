@@ -96,8 +96,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Portfolio website](https://github.com/simbleau/website) - A portfolio SPA with accessibility built-in by Spencer Imbleau.
 - [tchatche.rs](https://github.com/nag763/tchatchers) - A Websocket chat based application built in Yew and Axum.
 - [viz.rs](https://github.com/viz-rs/viz-rs.github.io) - A website for viz web framework, [Live Demo](https://viz.rs/).
-- [theiskaa.com](https://github.com/theiskaa/theiskaa.com) - A real world implementation of Yew framework. [Live at theiskaa.com](https://theiskaa.com)
-- [live-ask.com](https://github.com/liveask/liveask) - Realtime Event/Meetup Q&A Platform. [Live at live-ask.com](https://live-ask.com)
+- [theiskaa.com](https://github.com/theiskaa/theiskaa.com) - A real world implementation of Yew framework. [Live at theiskaa.com](https://theiskaa.com).
+- [live-ask.com](https://github.com/liveask/liveask) - Realtime Event/Meetup Q&A Platform. [Live at live-ask.com](https://live-ask.com).
 
 ## Templates
 
@@ -165,6 +165,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 - [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between WebAssembly modules and JavaScript.
 - [stdweb](https://github.com/koute/stdweb) - Provides Rust bindings to the Web APIs and to allow a high degree of interoperability between Rust and JavaScript.
+- [tauri-sys](https://github.com/JonasKruckenberg/tauri-sys) - Raw bindings to the Tauri API for projects using wasm-bindgen.
 
 ## Tooling
 
@@ -176,6 +177,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [trunk-action](https://github.com/jetli/trunk-action) - Github action to install `Trunk` by downloading the executable to speed up CI/CD.
 - [wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
 - [binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
+- [Tauri](https://github.com/tauri-apps/tauri) - Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
 
 ## Articles
 
