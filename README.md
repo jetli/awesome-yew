@@ -133,6 +133,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [yew-chart](https://github.com/titanclass/yew-chart) - A Yew-based charting library that provides SVG based components for rendering charts.
 - [tailyew](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 - [yew-duskmoon-ui](https://github.com/gsmlg-dev/yew-duskmoon-ui) - Duskmoon UI Component Library. This package use `stylist` to embbed css in components, so no extra CSS file is needed. [Live Demo](https://gsmlg-dev.github.io/yew-duskmoon-ui/).
+- [yew-bootstrap](https://github.com/isosphere/yew-bootstrap) - A Yew wrapper for the Bootstrap 5 component library.
 
 ### Components
 
