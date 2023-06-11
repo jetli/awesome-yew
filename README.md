@@ -168,6 +168,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [yew_icons](https://github.com/finnbear/yew_icons) - Easily include a variety of svg icons(Feather/Font Awesome/Octicons) into your Yew app.
 - [Yew-Template](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
 - [yew-nested-router](https://github.com/ctron/yew-nested-router) - A router that supported nesting, with Yew 0.20.
+- [turf](https://github.com/myFavShrimp/turf) - Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.
 
 ### Wasm
 
