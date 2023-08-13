@@ -105,6 +105,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Crypto-helper](https://github.com/TheBestTvarynka/crypto-helper) - Web app that can hash, encrypt, and sign the data on the client side. Also includes a JWT debugger. [Website](https://crypto.qkation.com).
 - [zoom-rs](https://github.com/security-union/zoom-rs) - Zoom clone written in rust for research purposes.
 - [Ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) - An open-source, cross-platform markdown editor; built with Yew, Tauri, Tailwind, and DaisyUI. [Web App](https://ubiquity.rs).
+- [Sketchdove](https://github.com/hash1018/Sketchdove) - A real-time collaborative whiteboard web-application written in Rust using Yew and Axum framework.
 
 ## Templates
 
