@@ -157,6 +157,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 - [Plotly.rs](https://github.com/igiagkiozis/plotly) - Rust bindings for the popular [Plotly](https://plotly.com/javascript/) charting library.
 - [ag-grid-rs](https://github.com/mfreeborn/ag-grid-rs) - Rust bindings for the [AG Grid](https://www.ag-grid.com/javascript-data-grid/) datatable library.
+- [popper-rs](https://github.com/ctron/popper-rs/) - [Popper JS](https://popper.js.org/) bindings for Rust.
 
 ### Utils
 
