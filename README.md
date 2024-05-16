@@ -117,6 +117,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [scap-rs](https://github.com/emo-crab/scap-rs) - National Vulnerability Database (NVD) implemented by Rust, [Live Demo](https://scap.kali-team.cn/).
 - [Sentry Relay](https://github.com/getsentry/relay) - The Sentry Relay is a service that pushes some functionality from the Sentry SDKs as well as the Sentry server into a proxy process.
 - [Syre](https://github.com/syre-data/syre) - Scientific data management and insights.
+- [candle-wasm-examples](https://github.com/huggingface/candle) - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use. Try our online demos: [whisper](https://huggingface.co/spaces/lmz/candle-whisper), [LLaMA2](https://huggingface.co/spaces/lmz/candle-llama2), [T5](https://huggingface.co/spaces/radames/Candle-T5-Generation-Wasm), [yolo](https://huggingface.co/spaces/lmz/candle-yolo), [Segment
+Anything](https://huggingface.co/spaces/radames/candle-segment-anything-wasm).
 
 ## Templates
 
