@@ -122,6 +122,7 @@ Anything](https://huggingface.co/spaces/radames/candle-segment-anything-wasm).
 - [chipbox](https://github.com/chipnertkj/chipbox) - chipbox is an open-source desktop DAW written in Rust.
 - [Taxy](https://github.com/picoHz/taxy/tree/main) - A reverse proxy server with built-in WebUI, supporting TCP/HTTP/TLS/WebSocket, written in Rust.
 - [Proxelar](https://github.com/emanuele-em/proxelar) - Rust-based Man in the Middle proxy, an early-stage project aimed at providing visibility into network traffic.
+- [diff.rs](https://github.com/xfbs/diff.rs) - Web application to render a diff between Rust crate versions. Implemented in Yew, runs fully in the browser as WebAssembly, [Live Demo](https://diff.rs).
 
 ## Templates
 
