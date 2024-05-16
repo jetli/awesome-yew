@@ -114,6 +114,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Hikari](https://github.com/celestia-island/hikari) - The Frontend of Everything.
 - [simply-view-image-for-python-debugging](https://github.com/elazarcoh/simply-view-image-for-python-debugging?tab=readme-ov-file) - Visual studio code extension simply view the image of the image variables when debugging python.
 - [Mindsweeper](https://github.com/AlexBuz/mindsweeper) - A principled take on minesweeper, [Live Demo](https://alexbuz.github.io/mindsweeper/).
+- [scap-rs](https://github.com/emo-crab/scap-rs) - National Vulnerability Database (NVD) implemented by Rust, [Live Demo](https://scap.kali-team.cn/).
 
 ## Templates
 
