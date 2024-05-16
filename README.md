@@ -113,6 +113,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [0721](https://github.com/langyo/0721) - The engine of image hosting written in Rust.
 - [Hikari](https://github.com/celestia-island/hikari) - The Frontend of Everything.
 - [simply-view-image-for-python-debugging](https://github.com/elazarcoh/simply-view-image-for-python-debugging?tab=readme-ov-file) - Visual studio code extension simply view the image of the image variables when debugging python.
+- [Mindsweeper](https://github.com/AlexBuz/mindsweeper) - A principled take on minesweeper, [Live Demo](https://alexbuz.github.io/mindsweeper/).
 
 ## Templates
 
