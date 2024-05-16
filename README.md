@@ -109,7 +109,9 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [RustedLessPass](https://github.com/RustedLessPass/RustedLessPass) - A stateless password manager. [Web App](https://rustedlesspass.github.io/).
 - [windows-terminal-theme-generator](https://github.com/LelouchFR/windows-terminal-theme-generator/) - Simplify your life to create a windows terminal theme. [Live Demo](https://windows-terminal-theme-generator.netlify.app/)
 - [SandCat](https://github.com/Xu-Mj/sandcat) - The software has primarily implemented the basic functionalities of an IM application, which includes a fundamental friend system, one-on-one chat, group chat, and one-on-one audio/video calls. It also supports i18n and currently offers a switch between Chinese and English.
-- [PinePods](https://github.com/madeofpendletonwool/PinePods) - PinePods is a Rust based podcast management system that manages podcasts with multi-user support and relies on a central database with clients to connect to it. 
+- [PinePods](https://github.com/madeofpendletonwool/PinePods) - PinePods is a Rust based podcast management system that manages podcasts with multi-user support and relies on a central database with clients to connect to it.
+- [0721](https://github.com/langyo/0721) - The engine of image hosting written in Rust.
+- [Hikari](https://github.com/celestia-island/hikari) - The Frontend of Everything.
 
 ## Templates
 
